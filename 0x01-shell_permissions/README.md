@@ -6,3 +6,5 @@ Scripts that that create an empty file hello
 Add execute permission to thr owner of the file hello
 add execute permission to owner and group owner, and read to other users
 Adds execute permission to everybody
+Sets permission to only other users
+Sets permission to -rwxr-x-wx
