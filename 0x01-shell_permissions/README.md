@@ -10,3 +10,4 @@ Sets permission to only other users
 Sets permission to -rwxr-x-wx
 Sets the permission mode of hello to same as olleh
 Adds executive permission to all subdirectories of current directory for owner, group owner and all other users
+Creates a directory my_dir with permission 751 in working directory
